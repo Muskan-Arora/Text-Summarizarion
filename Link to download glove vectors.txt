@@ -1,0 +1,2 @@
+Link to download glove vectors and save it in project folder glove_vectors
+https://www.kaggle.com/danielwillgeorge/glove6b100dtxt
